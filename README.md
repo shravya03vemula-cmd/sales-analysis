@@ -84,5 +84,5 @@ If discount cap recommendation is implemented, the overall profit margin is proj
 
 ## 🤝 Connect
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+- LinkedIn: [https://www.linkedin.com/in/shravya-vemula-a95771214/]
+- Email: [shravya.data03@gmail.com]
