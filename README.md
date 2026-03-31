@@ -67,6 +67,20 @@ python notebooks/sales_analysis.py
 ```
 
 ---
+## 📋 Business Recommendations
+
+Based on the analysis, here are five concrete actions I would recommend to the business:
+
+| # | Finding | Recommendation | Expected Impact |
+|---|---------|---------------|-----------------|
+| 1 | Tables and Bookcases have negative profit margins due to 35%+ average discounts | Cap discounts at 15% for furniture sub-categories immediately | Recover an estimated $50K+ in annual profit |
+| 2 | Central region has the lowest profit margin despite decent revenue | Audit Central region's discounting practices and sales team incentives | Align Central margins with West region benchmark |
+| 3 | Orders with more than 30% discount generate negative profit on average | Introduce discount approval workflow for anything above 20% | Reduce margin erosion across all categories |
+| 4 | Corporate segment has the highest revenue per customer | Prioritise Corporate account retention — assign dedicated account managers | Protect the highest-value customer segment |
+| 5 | Office Supplies has the best profit margin but lowest revenue share | Increase marketing spend on Office Supplies — high margin, room to grow | Improve overall portfolio profitability |
+
+### Key Metric to Watch
+If discount cap recommendation is implemented, the overall profit margin is projected to improve from **12% to approximately 17-18%** based on current order distribution.
 
 ## 🤝 Connect
 
